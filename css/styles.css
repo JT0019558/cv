@@ -1,0 +1,19 @@
+body {
+  background-color: #EAE6DA;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted #36593C;
+  border-width: thick;
+  width: 99%;
+}
+
+img {
+  border-radius: 50%;
+}
+
+h1, h3 {
+  color: #36593C;
+  font-family: GEORGIA, SERIF;
+}
